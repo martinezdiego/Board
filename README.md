@@ -1,5 +1,5 @@
 # Board
 
-Un juego sencillo para explicar las relaciones y la recurrencia.
+Un juego sencillo para explicar las relaciones.
 
 Leer  ```board.pdf``` para los detalles
